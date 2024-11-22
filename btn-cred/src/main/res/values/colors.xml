@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blackAccent">#616060</color>
+    <color name="colorAccent">#FF4081</color> <!-- Pinkish color -->
+    <color name="strokesYellow">#FFCC00</color> <!-- A bright yellow, for example -->
+</resources>
+
+

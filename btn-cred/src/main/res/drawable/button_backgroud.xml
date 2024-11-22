@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bottom black bar -->
+    <item android:right="0dp" android:left="0dp" android:top="0dp" android:bottom="0dp">
+        <shape>
+            <solid android:color="#000000"/> <!-- Black color for bottom bar -->
+            <corners android:radius="16dp"/> <!-- Rounded corners -->
+        </shape>
+    </item>
+
+    <!-- Button background (pink) -->
+    <item>
+        <shape>
+            <solid android:color="#FF4081"/>
+            <corners android:radius="16dp"/> <!-- Rounded corners -->
+        </shape>
+    </item>
+</layer-list>
